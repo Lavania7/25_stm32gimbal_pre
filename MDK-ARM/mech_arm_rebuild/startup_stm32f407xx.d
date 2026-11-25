@@ -1,0 +1,1 @@
+mech_arm_rebuild\startup_stm32f407xx.o: startup_stm32f407xx.s

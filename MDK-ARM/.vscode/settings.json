@@ -1,0 +1,30 @@
+{
+    "files.associations": {
+        "dm_motor_drv.h": "c",
+        "arm_application.h": "c",
+        "arm_app.h": "c",
+        "pid.h": "c",
+        "bsp_tim.h": "c",
+        "bsp_uart.h": "c",
+        "dbus.h": "c",
+        "math.h": "c",
+        "referee.h": "c",
+        "array": "c",
+        "string": "c",
+        "dma.h": "c",
+        "m3508.h": "c",
+        "dm_motor.h": "c",
+        "main.h": "c",
+        "interface.h": "c",
+        "chassis.h": "c",
+        "gimbal.h": "c",
+        "receive.h": "c",
+        "app.h": "c",
+        "bsp_can.h": "c",
+        "string.h": "c",
+        "mpu6050.h": "c",
+        "iic.h": "c",
+        "motor.h": "c",
+        "inv_mpu6050.h": "c"
+    }
+}
